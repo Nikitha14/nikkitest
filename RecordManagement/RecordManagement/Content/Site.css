@@ -1,0 +1,11 @@
+﻿body {
+    padding-top:50px;
+}
+
+defaultText{
+    font-family:Tahoma,Verdana, Geneva, Tahoma, sans-serif;
+    font-size:12pt;
+}
+.blacktext{
+	color:black !important;
+}
